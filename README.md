@@ -50,3 +50,11 @@ Pour le MVP on commence par analyser des bandes annonces au lieu de film car ils
 
 # Utilisation:
 Pour lancer le programme on exécute interface.py . Puis une fenêtre s'ouvre et on entre le nom du film que l'on veut analyser. Un pdf est ensuite chargé affichant les données après un temps d'analyse.
+
+# Results preview:
+
+![BAscreen](https://user-images.githubusercontent.com/72650161/99811035-e2562900-2b44-11eb-8dd3-7bc81c75940f.png)
+
+![La La Land screen](https://user-images.githubusercontent.com/72650161/99811069-eeda8180-2b44-11eb-8b77-1794127af83e.png)
+
+[Résultat_LA_La_Land.pdf](https://github.com/Armand-Morin/Emotions_Detection_on_videos/files/5574091/Resultat_LA_La_Land.pdf)
