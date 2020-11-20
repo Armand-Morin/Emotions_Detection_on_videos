@@ -57,4 +57,9 @@ Pour le MVP on commence par analyser des bandes annonces au lieu de film car ils
 
 ![La La Land screen](https://user-images.githubusercontent.com/72650161/99812602-f1d67180-2b46-11eb-833e-03639172de0f.png)
 
-[Résultat_LA_La_Land.pdf](https://github.com/Armand-Morin/Emotions_Detection_on_videos/files/5574183/Resultat_LA_La_Land.pdf)
+![LA 1](https://user-images.githubusercontent.com/72650161/99812714-16324e00-2b47-11eb-95e7-8832b95f7852.png)
+
+![LA](https://user-images.githubusercontent.com/72650161/99812727-17fc1180-2b47-11eb-8dd3-de862b03bad3.png)
+
+
+
