@@ -1,4 +1,4 @@
-# Emotions_Detection_on_videos
+# Emotions_Detection_videos
 This python code is able to detect in real time on a video the emotion of the deteced people.  This is my project during the coding weeks at Centralesupelec
 
 ## Prédiction du "genre" ou ton émotionel du film par analyse des sentiments, et calcul de statistiques (temps à l'écran, diversité, parité)
